@@ -1,6 +1,7 @@
  Hamming Code Simulator 
 
 Bu program, Hamming SEC-DED (Tek Hata Düzeltme, Çift Hata Tespit) kodunun simülasyonunu yapar. Program, veri iletiminde hataları tespit etme ve düzeltme için kullanılan Hamming kodunu görsel bir arayüzle gösterir.
+console çıktısı deneme video youtube link : https://www.youtube.com/watch?v=XfapkEI-3lc
 
  Özellikler
 
